@@ -6,18 +6,16 @@
 
 ## Stats
 
-| Mesh    | Original | Reduced | Reduced | Reduced   |
-|----------|----------|---------|---------|------------
-| Faces    | 23386    | 4000    | 4000    | 4000      |
-| Vertices | 13963    | 4270    | 4270    | 4270      |
-| Format   | obj      | obj     | ply     | ply (bin) |
-| Size     | 2230 KB  | 526 KB  | 523 KB  | 264 KB    |
+| Mesh       | Original | Reduced | Reduced | Reduced   |
+|------------|----------|---------|---------|------------
+| Faces      | 23386    | 4000    | 4000    | 4000      |
+| Vertices   | 13963    | 4270    | 4270    | 4270      |
+| Format     | obj      | obj     | ply     | ply (bin) |
+| Size       | 2230 KB  | 526 KB  | 523 KB  | 264 KB    |
+| Size (zip) | 1144 KB  | 271 KB  | 262 KB  | 253 KB    |
+| Download   | [zip](/../../original/obj/door_rabbit-original-obj.zip) | [zip](/../../reduced/obj/door_rabbit-reduced-obj.zip) | [zip](/../../reduced/ply/door_rabbit-reduced-ply.zip) | [zip](/../../reduced/ply/door_rabbit-reduced-ply-binary.zip)
 
-| Texture    | Original  | Reduced   |
-|------------|-----------|------------
-| Resolution | 2048x2048 | 1024x1024 |
-| Format     | jpg       | jpg       |
-| Size       | 539 KB    | 111 KB    |
+> Note: Reduced versions use smaller texture (```1024x1024```, while the original uses ```2048x2048```).
 
 ## Notes
 
