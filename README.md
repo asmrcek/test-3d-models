@@ -5,4 +5,4 @@ This repository contains various 3D models. They can be used really for anything
 
 | Name        | Image |
 |-------------|-------|
-| Door rabbit | ![](models/door_rabbit/door_rabbit-preview.jpg) |
+| [Door rabbit](models/door_rabbit/README.md) | ![](models/door_rabbit/door_rabbit-preview.jpg) |
