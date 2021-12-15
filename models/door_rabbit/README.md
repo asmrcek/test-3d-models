@@ -13,7 +13,7 @@
 | Format     | obj      | obj     | ply     | ply (bin) |
 | Size       | 2230 KB  | 526 KB  | 523 KB  | 264 KB    |
 | Size (zip) | 1144 KB  | 271 KB  | 262 KB  | 253 KB    |
-| Download   | [zip](/../../original/obj/door_rabbit-original-obj.zip) | [zip](/../../reduced/obj/door_rabbit-reduced-obj.zip) | [zip](/../../reduced/ply/door_rabbit-reduced-ply.zip) | [zip](/../../reduced/ply/door_rabbit-reduced-ply-binary.zip)
+| Download   | [zip](/../../raw/main/models/door_rabbit/original/obj/door_rabbit-original-obj.zip) | [zip](/../../raw/main/models/door_rabbit/reduced/obj/door_rabbit-reduced-obj.zip) | [zip](/../../raw/main/models/door_rabbit/reduced/ply/door_rabbit-reduced-ply.zip) | [zip](/../../raw/main/models/door_rabbit/reduced/ply/door_rabbit-reduced-ply-binary.zip)
 
 > Note: Reduced versions use smaller texture (```1024x1024```, while the original uses ```2048x2048```).
 
