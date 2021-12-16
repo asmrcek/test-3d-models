@@ -6,14 +6,14 @@
 
 ## Stats
 
-| Mesh       | Original | Reduced | Reduced | Reduced   |
-|------------|----------|---------|---------|------------
-| Faces      | 23386    | 4000    | 4000    | 4000      |
-| Vertices   | 13963    | 4270    | 4270    | 4270      |
-| Format     | obj      | obj     | ply     | ply (bin) |
-| Size       | 2230 KB  | 526 KB  | 523 KB  | 264 KB    |
-| Size (zip) | 1144 KB  | 271 KB  | 262 KB  | 253 KB    |
-| Download   | [zip](/../../raw/main/models/door_rabbit/original/obj/door_rabbit-original-obj.zip) | [zip](/../../raw/main/models/door_rabbit/reduced/obj/door_rabbit-reduced-obj.zip) | [zip](/../../raw/main/models/door_rabbit/reduced/ply/door_rabbit-reduced-ply.zip) | [zip](/../../raw/main/models/door_rabbit/reduced/ply/door_rabbit-reduced-ply-binary.zip)
+| Mesh       | Original | Reduced | Reduced | Reduced   | Reduced   |
+|------------|----------|---------|---------|-----------|------------
+| Faces      | 23386    | 4000    | 4000    | 4000      | 4000      |
+| Vertices   | 13963    | 4270    | 4270    | 4270      | 4270      |
+| Format     | obj      | obj     | ply     | ply (bin) | nxs       |
+| Size       | 2230 KB  | 526 KB  | 523 KB  | 264 KB    | 267 KB    |
+| Size (zip) | 1144 KB  | 271 KB  | 262 KB  | 253 KB    | 267 KB    |
+| Download   | [zip](/../../raw/main/models/door_rabbit/original/obj/door_rabbit-original-obj.zip) | [zip](/../../raw/main/models/door_rabbit/reduced/obj/door_rabbit-reduced-obj.zip) | [zip](/../../raw/main/models/door_rabbit/reduced/ply/door_rabbit-reduced-ply.zip) | [zip](/../../raw/main/models/door_rabbit/reduced/ply/door_rabbit-reduced-ply-binary.zip) | [nxs](/../../raw/main/models/door_rabbit/reduced/nxs/door_rabbit.nxs)
 
 > Note: Reduced versions use smaller texture (```1024x1024```, while the original uses ```2048x2048```).
 
