@@ -19,7 +19,7 @@
 
 ## Notes
 
-The mesh has some geometric deformations and isn't closed (the rabbit doesn't have a butt).
+The mesh has some geometric deformations and isn't closed (the rabbit doesn't have a butt). Also, one side of the mesh is darker than the other one.
 
 ## About the model
 
